@@ -1,0 +1,32 @@
+<div>
+  <link href="./android-small1.css" rel="stylesheet" />
+  <div>
+    <div class="android-small1-android-small1">
+      <img
+        src="/playground_assets/californiamap11026-4oa-400w.png"
+        alt="CaliforniaMap11026"
+        class="android-small1-california-map1"
+      />
+      <img
+        src="/playground_assets/rectangle11032-zkth-200h.png"
+        alt="Rectangle11032"
+        class="android-small1-rectangle1"
+      />
+      <div class="android-small1-search"></div>
+      <img
+        src="/playground_assets/vector1033-34tc.svg"
+        alt="Vector1033"
+        class="android-small1-vector"
+      />
+      <img
+        src="/playground_assets/vector1036-2apk.svg"
+        alt="Vector1036"
+        class="android-small1-vector1"
+      />
+      <span class="android-small1-text"><span>10 miles</span></span>
+      <a href="android-small5.html" class="android-small1-text2">
+        <span>Death Valley</span>
+      </a>
+    </div>
+  </div>
+</div>
