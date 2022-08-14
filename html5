@@ -1,0 +1,43 @@
+<div>
+  <link href="./android-small4.css" rel="stylesheet" />
+  <div>
+    <div class="android-small4-android-small4">
+      <a href="android-small5.html" class="android-small4-navlink">
+        <img
+          src="/playground_assets/back11021-v929-200h.png"
+          alt="back11021"
+          class="android-small4-back1"
+        />
+      </a>
+      <img
+        src="/playground_assets/image1200pxchimneyrocktrailpointreyesdecember2016p1021-c816h-300h.png"
+        alt="IMAGE1200pxChimneyRockTrailPointReyesDecember2016p1021"
+        class="android-small4-i-m-a-g-e1200px-chimney-rock-trail-point-reyes-december2016p"
+      />
+      <img
+        src="/playground_assets/rectangle11034-pzish-200h.png"
+        alt="Rectangle11034"
+        class="android-small4-rectangle1"
+      />
+      <img
+        src="/playground_assets/rectangle21034-cmkg-200h.png"
+        alt="Rectangle21034"
+        class="android-small4-rectangle2"
+      />
+      <img
+        src="/playground_assets/rectangle31034-q6a-200h.png"
+        alt="Rectangle31034"
+        class="android-small4-rectangle3"
+      />
+      <span class="android-small4-text"><span>Distance: 10.3miles</span></span>
+      <span class="android-small4-text2"><span>Food:xxxxxx</span></span>
+      <span class="android-small4-text4"><span>Hotel: xxxxxxxx</span></span>
+      <img
+        src="/playground_assets/ellipse11035-hra-200w.png"
+        alt="Ellipse11035"
+        class="android-small4-ellipse1"
+      />
+      <span class="android-small4-text6"><span>4.8/5</span></span>
+    </div>
+  </div>
+</div>
