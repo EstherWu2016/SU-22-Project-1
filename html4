@@ -1,0 +1,43 @@
+<div>
+  <link href="./android-small3.css" rel="stylesheet" />
+  <div>
+    <div class="android-small3-android-small3">
+      <a href="android-small5.html" class="android-small3-navlink">
+        <img
+          src="/playground_assets/back11029-55qs-200h.png"
+          alt="back11029"
+          class="android-small3-back1"
+        />
+      </a>
+      <img
+        src="/playground_assets/yosemite11021-h2js-300h.png"
+        alt="Yosemite11021"
+        class="android-small3-yosemite1"
+      />
+      <img
+        src="/playground_assets/rectangle11033-h2t-200h.png"
+        alt="Rectangle11033"
+        class="android-small3-rectangle1"
+      />
+      <img
+        src="/playground_assets/rectangle21033-1g2a-200h.png"
+        alt="Rectangle21033"
+        class="android-small3-rectangle2"
+      />
+      <img
+        src="/playground_assets/rectangle11033-z0od-200h.png"
+        alt="Rectangle11033"
+        class="android-small3-rectangle11"
+      />
+      <span class="android-small3-text"><span>Distance: 10.1 miles</span></span>
+      <span class="android-small3-text2"><span>Food:xxxxxxxx</span></span>
+      <span class="android-small3-text4"><span>Hotel:xxxxxxxxx</span></span>
+      <img
+        src="/playground_assets/ellipse11035-5p-200w.png"
+        alt="Ellipse11035"
+        class="android-small3-ellipse1"
+      />
+      <span class="android-small3-text6"><span>4.7/5</span></span>
+    </div>
+  </div>
+</div>
