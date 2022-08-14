@@ -1,0 +1,46 @@
+<div>
+  <link href="./android-small5.css" rel="stylesheet" />
+  <div>
+    <div class="android-small5-android-small5">
+      <a href="android-small1.html" class="android-small5-navlink">
+        <img
+          src="/playground_assets/back11021-01fq-200h.png"
+          alt="back11021"
+          class="android-small5-back1"
+        />
+      </a>
+      <a href="android-small2.html" class="android-small5-navlink1">
+        <img
+          src="/playground_assets/deathvalley11021-nlsd-200h.png"
+          alt="deathvalley11021"
+          class="android-small5-deathvalley1"
+        />
+      </a>
+      <a href="android-small3.html" class="android-small5-navlink2">
+        <img
+          src="/playground_assets/yosemite11021-llyk-200h.png"
+          alt="Yosemite11021"
+          class="android-small5-yosemite1"
+        />
+      </a>
+      <a href="android-small4.html" class="android-small5-navlink3">
+        <img
+          src="/playground_assets/image1200pxchimneyrocktrailpointreyesdecember2016p1022-2jp-200h.png"
+          alt="IMAGE1200pxChimneyRockTrailPointReyesDecember2016p1022"
+          class="android-small5-i-m-a-g-e1200px-chimney-rock-trail-point-reyes-december2016p"
+        />
+      </a>
+      <span class="android-small5-text"><span>Death Valley</span></span>
+      <span class="android-small5-text2">
+        <span>
+          <span>Yosemite Park</span>
+          <br />
+          <span></span>
+        </span>
+      </span>
+      <span class="android-small5-text7">
+        <span>Point Reys National Seashores</span>
+      </span>
+    </div>
+  </div>
+</div>
